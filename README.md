@@ -4,7 +4,7 @@
 
 # About QBEIN
 
-QBEIN is a development provider that specializes in web3 solutions for games and finances. With over 7 years of experience in developing decentralized solutions, we offer a wide range of services for our clients and partners. Focus on developing custom blockchain-based and AI-powered solutions, we also provide technical support and consulting for running businesses and startups.
+QBEIN is a development provider that specializes in web3 solutions for games and finances. With over 10 years of experience in developing decentralized solutions, we offer a wide range of services for our clients and partners. Focus on developing custom blockchain-based and AI-powered solutions, we also provide technical support and consulting for running businesses and startups.
 
 ### Follow us
 
